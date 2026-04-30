@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FixtureDefinition>
+<FixtureDefinition xmlns="http://www.qlcplus.org/FixtureDefinition">
+ <Creator>
+  <Name>Q Light Controller Plus</Name>
+  <Version>5.2.1</Version>
+  <Author>VJ + Codex (ZQ05031 manual aligned)</Author>
+ </Creator>
+ <Manufacturer>U`King</Manufacturer>
+ <Model>ZQ05031 RGB Animation Laser</Model>
+ <Type>Laser</Type>
+
+ <Channel Name="Laser A Mode">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="0">Laser OFF</Capability>
+  <Capability Min="1" Max="99">AUTO</Capability>
+  <Capability Min="100" Max="199">Sound Active</Capability>
+  <Capability Min="200" Max="254">Reserved / Saving</Capability>
+  <Capability Min="255" Max="255">Pattern A OFF (B only)</Capability>
+ </Channel>
+ <Channel Name="Laser A Boundary / Size">
+  <Group Byte="0">Beam</Group>
+  <Capability Min="0" Max="49">Out of bounds: Crossing</Capability>
+  <Capability Min="50" Max="99">Out of bounds: Reentry</Capability>
+  <Capability Min="100" Max="149">Out of bounds: Blanking</Capability>
+  <Capability Min="150" Max="199">Zoom out + Blanking</Capability>
+  <Capability Min="200" Max="255">Reserved / Saving</Capability>
+ </Channel>
+ <Channel Name="Laser A Group Select">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="223">Group 1..n</Capability>
+  <Capability Min="224" Max="255">Group 0</Capability>
+ </Channel>
+ <Channel Name="Laser A Pattern Select">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Pattern Index</Capability>
+ </Channel>
+ <Channel Name="Laser A Zoom">
+  <Group Byte="0">Beam</Group>
+  <Capability Min="0" Max="127">Static Size</Capability>
+  <Capability Min="128" Max="159">Zoom OUT (dynamic)</Capability>
+  <Capability Min="160" Max="191">Zoom IN (dynamic)</Capability>
+  <Capability Min="192" Max="223">Zoom IN/OUT (dynamic)</Capability>
+  <Capability Min="224" Max="255">Zoom Rotation (dynamic)</Capability>
+ </Channel>
+ <Channel Name="Laser A Rotation">
+  <Group Byte="0">Beam</Group>
+  <Capability Min="0" Max="127">Static Rotation</Capability>
+  <Capability Min="128" Max="159">2-circle CW/CCW</Capability>
+  <Capability Min="160" Max="191">1-circle CW/CCW</Capability>
+  <Capability Min="192" Max="223">Clockwise Rotation</Capability>
+  <Capability Min="224" Max="255">Counter-clockwise Rotation</Capability>
+ </Channel>
+ <Channel Name="Laser A X Move">
+  <Group Byte="0">Pan</Group>
+  <Capability Min="0" Max="127">Static X Position</Capability>
+  <Capability Min="128" Max="159">Wave UP</Capability>
+  <Capability Min="160" Max="191">Wave DOWN</Capability>
+  <Capability Min="192" Max="223">Move LEFT</Capability>
+  <Capability Min="224" Max="255">Move RIGHT</Capability>
+ </Channel>
+ <Channel Name="Laser A Y Move">
+  <Group Byte="0">Tilt</Group>
+  <Capability Min="0" Max="127">Static Y Position</Capability>
+  <Capability Min="128" Max="159">Wave RIGHT</Capability>
+  <Capability Min="160" Max="191">Wave LEFT</Capability>
+  <Capability Min="192" Max="223">Move DOWN</Capability>
+  <Capability Min="224" Max="255">Move UP</Capability>
+ </Channel>
+ <Channel Name="Laser A X Distort / Zoom">
+  <Group Byte="0">Beam</Group>
+  <Capability Min="0" Max="127">Static Size</Capability>
+  <Capability Min="128" Max="159">X Distort UP</Capability>
+  <Capability Min="160" Max="191">X Distort DOWN</Capability>
+  <Capability Min="192" Max="223">Zoom IN/OUT</Capability>
+  <Capability Min="224" Max="255">Rotational Zoom</Capability>
+ </Channel>
+ <Channel Name="Laser A Y Distort / Zoom">
+  <Group Byte="0">Beam</Group>
+  <Capability Min="0" Max="127">Static Size</Capability>
+  <Capability Min="128" Max="159">Y Distort RIGHT</Capability>
+  <Capability Min="160" Max="191">Y Distort LEFT</Capability>
+  <Capability Min="192" Max="223">Zoom IN/OUT</Capability>
+  <Capability Min="224" Max="255">Rotational Zoom</Capability>
+ </Channel>
+ <Channel Name="Laser A Fixed Color">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="0">Original Color</Capability>
+  <Capability Min="1" Max="255">Fixed Color Change</Capability>
+ </Channel>
+ <Channel Name="Laser A Color FX">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="7">Original Color</Capability>
+  <Capability Min="8" Max="15">Red</Capability>
+  <Capability Min="16" Max="23">Yellow</Capability>
+  <Capability Min="24" Max="31">Green</Capability>
+  <Capability Min="32" Max="39">Cyan</Capability>
+  <Capability Min="40" Max="47">Blue</Capability>
+  <Capability Min="48" Max="55">Pink</Capability>
+  <Capability Min="56" Max="95">White</Capability>
+  <Capability Min="96" Max="127">Whole Pattern RGB</Capability>
+  <Capability Min="128" Max="159">Whole Pattern YCP</Capability>
+  <Capability Min="160" Max="191">Whole Pattern RGBYCPW</Capability>
+  <Capability Min="192" Max="223">7-color RGBYCPW</Capability>
+  <Capability Min="224" Max="255">Sine/Cosine Chasing</Capability>
+ </Channel>
+ <Channel Name="Laser A Dot FX">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="63">Original Dots</Capability>
+  <Capability Min="64" Max="127">No Dots + Sweep Blanking</Capability>
+  <Capability Min="128" Max="159">No Dots + Sweep No Blanking</Capability>
+  <Capability Min="160" Max="255">Reserved / Saving</Capability>
+ </Channel>
+ <Channel Name="Laser A Draw Mode">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Draw Modifier (works with CH15)</Capability>
+ </Channel>
+ <Channel Name="Laser A Draw Speed">
+  <Group Byte="0">Speed</Group>
+  <Capability Min="0" Max="63">Sine Manual Draw</Capability>
+  <Capability Min="64" Max="127">Cosine Manual Draw</Capability>
+  <Capability Min="128" Max="159">Dynamic Draw A</Capability>
+  <Capability Min="160" Max="191">Dynamic Draw B</Capability>
+  <Capability Min="192" Max="223">Dynamic Draw C</Capability>
+  <Capability Min="224" Max="255">Dynamic Draw D</Capability>
+ </Channel>
+ <Channel Name="Laser A Twist">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Twist Amount</Capability>
+ </Channel>
+ <Channel Name="Laser A Grating">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Grating Select</Capability>
+ </Channel>
+
+ <Channel Name="Laser B Mode">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="0">All OFF</Capability>
+  <Capability Min="1" Max="99">AUTO</Capability>
+  <Capability Min="100" Max="199">Sound Active</Capability>
+  <Capability Min="200" Max="254">Reserved / Saving</Capability>
+  <Capability Min="255" Max="255">A OFF, B ON</Capability>
+ </Channel>
+ <Channel Name="Laser B Boundary / Size">
+  <Group Byte="0">Beam</Group>
+  <Capability Min="0" Max="49">Out of bounds: Crossing</Capability>
+  <Capability Min="50" Max="99">Out of bounds: Reentry</Capability>
+  <Capability Min="100" Max="149">Out of bounds: Blanking</Capability>
+  <Capability Min="150" Max="255">Reserved / Saving</Capability>
+ </Channel>
+ <Channel Name="Laser B Reserved">
+  <Group Byte="0">Maintenance</Group>
+  <Capability Min="0" Max="255">No Function</Capability>
+ </Channel>
+ <Channel Name="Laser B Pattern Select">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Pattern Index</Capability>
+ </Channel>
+ <Channel Name="Laser B Zoom">
+  <Group Byte="0">Beam</Group>
+  <Capability Min="0" Max="127">Static Size</Capability>
+  <Capability Min="128" Max="159">Zoom OUT (dynamic)</Capability>
+  <Capability Min="160" Max="191">Zoom IN (dynamic)</Capability>
+  <Capability Min="192" Max="223">Zoom IN/OUT (dynamic)</Capability>
+  <Capability Min="224" Max="255">Zoom Rotation (dynamic)</Capability>
+ </Channel>
+ <Channel Name="Laser B Rotation">
+  <Group Byte="0">Beam</Group>
+  <Capability Min="0" Max="127">Static Rotation</Capability>
+  <Capability Min="128" Max="159">2-circle CW/CCW</Capability>
+  <Capability Min="160" Max="191">1-circle CW/CCW</Capability>
+  <Capability Min="192" Max="223">Clockwise Rotation</Capability>
+  <Capability Min="224" Max="255">Counter-clockwise Rotation</Capability>
+ </Channel>
+ <Channel Name="Laser B X Move">
+  <Group Byte="0">Pan</Group>
+  <Capability Min="0" Max="127">Static X Position</Capability>
+  <Capability Min="128" Max="159">Wave UP</Capability>
+  <Capability Min="160" Max="191">Wave DOWN</Capability>
+  <Capability Min="192" Max="223">Move LEFT</Capability>
+  <Capability Min="224" Max="255">Move RIGHT</Capability>
+ </Channel>
+ <Channel Name="Laser B Y Move">
+  <Group Byte="0">Tilt</Group>
+  <Capability Min="0" Max="127">Static Y Position</Capability>
+  <Capability Min="128" Max="159">Wave RIGHT</Capability>
+  <Capability Min="160" Max="191">Wave LEFT</Capability>
+  <Capability Min="192" Max="223">Move DOWN</Capability>
+  <Capability Min="224" Max="255">Move UP</Capability>
+ </Channel>
+ <Channel Name="Laser B X Distort / Zoom">
+  <Group Byte="0">Beam</Group>
+  <Capability Min="0" Max="127">Static Size</Capability>
+  <Capability Min="128" Max="159">X Distort UP</Capability>
+  <Capability Min="160" Max="191">X Distort DOWN</Capability>
+  <Capability Min="192" Max="223">Zoom IN/OUT</Capability>
+  <Capability Min="224" Max="255">Rotational Zoom</Capability>
+ </Channel>
+ <Channel Name="Laser B Y Distort / Zoom">
+  <Group Byte="0">Beam</Group>
+  <Capability Min="0" Max="127">Static Size</Capability>
+  <Capability Min="128" Max="159">Y Distort RIGHT</Capability>
+  <Capability Min="160" Max="191">Y Distort LEFT</Capability>
+  <Capability Min="192" Max="223">Zoom IN/OUT</Capability>
+  <Capability Min="224" Max="255">Rotational Zoom</Capability>
+ </Channel>
+ <Channel Name="Laser B Fixed Color">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="0">Original Color</Capability>
+  <Capability Min="1" Max="255">Fixed Color Change</Capability>
+ </Channel>
+ <Channel Name="Laser B Color FX">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="7">Original Color</Capability>
+  <Capability Min="8" Max="15">Red</Capability>
+  <Capability Min="16" Max="23">Yellow</Capability>
+  <Capability Min="24" Max="31">Green</Capability>
+  <Capability Min="32" Max="39">Cyan</Capability>
+  <Capability Min="40" Max="47">Blue</Capability>
+  <Capability Min="48" Max="55">Pink</Capability>
+  <Capability Min="56" Max="95">White</Capability>
+  <Capability Min="96" Max="127">Whole Pattern RGB</Capability>
+  <Capability Min="128" Max="159">Whole Pattern YCP</Capability>
+  <Capability Min="160" Max="191">Whole Pattern RGBYCPW</Capability>
+  <Capability Min="192" Max="223">7-color RGBYCPW</Capability>
+  <Capability Min="224" Max="255">Sine/Cosine Chasing</Capability>
+ </Channel>
+ <Channel Name="Laser B Dot FX">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="63">Original Dots</Capability>
+  <Capability Min="64" Max="127">No Dots + Sweep Blanking</Capability>
+  <Capability Min="128" Max="159">No Dots + Sweep No Blanking</Capability>
+  <Capability Min="160" Max="255">Reserved / Saving</Capability>
+ </Channel>
+ <Channel Name="Laser B Draw Mode">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Draw Modifier (works with CH32)</Capability>
+ </Channel>
+ <Channel Name="Laser B Draw Speed">
+  <Group Byte="0">Speed</Group>
+  <Capability Min="0" Max="63">Sine Manual Draw</Capability>
+  <Capability Min="64" Max="127">Cosine Manual Draw</Capability>
+  <Capability Min="128" Max="159">Dynamic Draw A</Capability>
+  <Capability Min="160" Max="191">Dynamic Draw B</Capability>
+  <Capability Min="192" Max="223">Dynamic Draw C</Capability>
+  <Capability Min="224" Max="255">Dynamic Draw D</Capability>
+ </Channel>
+ <Channel Name="Laser B Twist">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Twist Amount</Capability>
+ </Channel>
+ <Channel Name="Laser B Grating">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Grating Select</Capability>
+ </Channel>
+
+ <Channel Name="Simple Laser On/Off">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="0">OFF</Capability>
+  <Capability Min="1" Max="255">ON</Capability>
+ </Channel>
+ <Channel Name="Simple Movement Mode">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="31">Preset AUTO Effects</Capability>
+  <Capability Min="32" Max="63">Preset Serial AUTO</Capability>
+  <Capability Min="64" Max="95">Preset Mixed AUTO</Capability>
+  <Capability Min="96" Max="127">Reserved / Saving</Capability>
+  <Capability Min="128" Max="159">Preset SOUND Effects</Capability>
+  <Capability Min="160" Max="191">Preset Serial SOUND</Capability>
+  <Capability Min="192" Max="223">Preset Mixed SOUND</Capability>
+  <Capability Min="224" Max="255">Reserved / Saving</Capability>
+ </Channel>
+ <Channel Name="Simple Pattern Group">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Pattern Group Select</Capability>
+ </Channel>
+ <Channel Name="Simple Theme Select">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Theme / Pattern Select</Capability>
+ </Channel>
+ <Channel Name="Simple Color Select">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="31">Full Color</Capability>
+  <Capability Min="32" Max="63">Red</Capability>
+  <Capability Min="64" Max="95">Yellow</Capability>
+  <Capability Min="96" Max="127">Green</Capability>
+  <Capability Min="128" Max="159">Cyan</Capability>
+  <Capability Min="160" Max="191">Blue</Capability>
+  <Capability Min="192" Max="223">Pink</Capability>
+  <Capability Min="224" Max="255">White</Capability>
+ </Channel>
+ <Channel Name="Simple Speed">
+  <Group Byte="0">Speed</Group>
+  <Capability Min="1" Max="255">Speed Slow to Fast</Capability>
+ </Channel>
+
+ <Mode Name="34ch">
+  <Channel Number="0">Laser A Mode</Channel>
+  <Channel Number="1">Laser A Boundary / Size</Channel>
+  <Channel Number="2">Laser A Group Select</Channel>
+  <Channel Number="3">Laser A Pattern Select</Channel>
+  <Channel Number="4">Laser A Zoom</Channel>
+  <Channel Number="5">Laser A Rotation</Channel>
+  <Channel Number="6">Laser A X Move</Channel>
+  <Channel Number="7">Laser A Y Move</Channel>
+  <Channel Number="8">Laser A X Distort / Zoom</Channel>
+  <Channel Number="9">Laser A Y Distort / Zoom</Channel>
+  <Channel Number="10">Laser A Fixed Color</Channel>
+  <Channel Number="11">Laser A Color FX</Channel>
+  <Channel Number="12">Laser A Dot FX</Channel>
+  <Channel Number="13">Laser A Draw Mode</Channel>
+  <Channel Number="14">Laser A Draw Speed</Channel>
+  <Channel Number="15">Laser A Twist</Channel>
+  <Channel Number="16">Laser A Grating</Channel>
+  <Channel Number="17">Laser B Mode</Channel>
+  <Channel Number="18">Laser B Boundary / Size</Channel>
+  <Channel Number="19">Laser B Reserved</Channel>
+  <Channel Number="20">Laser B Pattern Select</Channel>
+  <Channel Number="21">Laser B Zoom</Channel>
+  <Channel Number="22">Laser B Rotation</Channel>
+  <Channel Number="23">Laser B X Move</Channel>
+  <Channel Number="24">Laser B Y Move</Channel>
+  <Channel Number="25">Laser B X Distort / Zoom</Channel>
+  <Channel Number="26">Laser B Y Distort / Zoom</Channel>
+  <Channel Number="27">Laser B Fixed Color</Channel>
+  <Channel Number="28">Laser B Color FX</Channel>
+  <Channel Number="29">Laser B Dot FX</Channel>
+  <Channel Number="30">Laser B Draw Mode</Channel>
+  <Channel Number="31">Laser B Draw Speed</Channel>
+  <Channel Number="32">Laser B Twist</Channel>
+  <Channel Number="33">Laser B Grating</Channel>
+ </Mode>
+
+ <Mode Name="6ch">
+  <Channel Number="0">Simple Laser On/Off</Channel>
+  <Channel Number="1">Simple Movement Mode</Channel>
+  <Channel Number="2">Simple Pattern Group</Channel>
+  <Channel Number="3">Simple Theme Select</Channel>
+  <Channel Number="4">Simple Color Select</Channel>
+  <Channel Number="5">Simple Speed</Channel>
+ </Mode>
+
+ <Physical>
+  <Bulb Type="Laser" Lumens="0" ColourTemperature="0"/>
+  <Dimensions Weight="0" Width="0" Height="0" Depth="0"/>
+  <Lens Name="Other" DegreesMin="0" DegreesMax="0"/>
+  <Focus Type="Fixed" PanMax="0" TiltMax="0"/>
+  <Technical PowerConsumption="0" DmxConnector="3-pin"/>
+ </Physical>
+</FixtureDefinition>
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FixtureDefinition>
+<FixtureDefinition xmlns="http://www.qlcplus.org/FixtureDefinition">
+ <Creator>
+  <Name>Q Light Controller Plus</Name>
+  <Version>5.2.1</Version>
+  <Author>VJ</Author>
+ </Creator>
+ <Manufacturer>HOLDLAMP</Manufacturer>
+ <Model>A55 Segment Flash Lamp 288 RGB</Model>
+ <Type>LED Bar (Pixels)</Type>
+ <Channel Name="Master Dimmer">
+  <Group Byte="0">Intensity</Group>
+  <Capability Min="0" Max="255">Total Dimming</Capability>
+ </Channel>
+ <Channel Name="Red">
+  <Group Byte="0">Intensity</Group>
+  <Colour>Red</Colour>
+  <Capability Min="0" Max="255">Dark To Bright</Capability>
+ </Channel>
+ <Channel Name="Green">
+  <Group Byte="0">Intensity</Group>
+  <Colour>Green</Colour>
+  <Capability Min="0" Max="255">Dark To Bright</Capability>
+ </Channel>
+ <Channel Name="Blue">
+  <Group Byte="0">Intensity</Group>
+  <Colour>Blue</Colour>
+  <Capability Min="0" Max="255">Dark To Bright</Capability>
+ </Channel>
+ <Channel Name="Strobe">
+  <Group Byte="0">Shutter</Group>
+  <Capability Min="1" Max="255">Slow to Fast</Capability>
+ </Channel>
+ <Channel Name="Inner FX Mode">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="85">7 Color Mix Combinations</Capability>
+  <Capability Min="86" Max="171">45 Self-Propelled Modes</Capability>
+  <Capability Min="172" Max="255">Voice Activated Modes</Capability>
+ </Channel>
+ <Channel Name="Inner FX Speed">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="127">Sound Sensitivity</Capability>
+  <Capability Min="128" Max="255">Effect Speed</Capability>
+ </Channel>
+ <Channel Name="Outer Ring FX">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="18">OFF</Capability>
+  <Capability Min="19" Max="255">Ring Effects</Capability>
+ </Channel>
+ <Channel Name="Outer Ring Speed">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Slow To Fast</Capability>
+ </Channel>
+ <Channel Name="Inner FX Control">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="255">Control Colors / Program Selection</Capability>
+ </Channel>
+ <Mode Name="Mode 1 ">
+  <Channel Number="0">Master Dimmer</Channel>
+  <Channel Number="1">Red</Channel>
+  <Channel Number="2">Green</Channel>
+  <Channel Number="3">Blue</Channel>
+  <Channel Number="4">Strobe</Channel>
+  <Channel Number="5">Inner FX Mode</Channel>
+  <Channel Number="6">Inner FX Control</Channel>
+  <Channel Number="7">Inner FX Speed</Channel>
+  <Channel Number="8">Outer Ring FX</Channel>
+  <Channel Number="9">Outer Ring Speed</Channel>
+  <Head>
+   <Channel>1</Channel>
+   <Channel>2</Channel>
+   <Channel>3</Channel>
+  </Head>
+ </Mode>
+ <Physical>
+  <Bulb Type="LED" Lumens="0" ColourTemperature="2"/>
+  <Dimensions Weight="1" Width="260" Height="162" Depth="65"/>
+  <Lens Name="Other" DegreesMin="30" DegreesMax="60"/>
+  <Focus Type="Fixed" PanMax="0" TiltMax="0"/>
+  <Layout Width="2" Height="1"/>
+  <Technical PowerConsumption="110" DmxConnector="3-pin"/>
+ </Physical>
+</FixtureDefinition>

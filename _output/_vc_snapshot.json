@@ -1,0 +1,8612 @@
+{
+  "generated": "2026-04-13T15:32:59.642520+00:00",
+  "snapshot_file": "Zero Hour GZ Project File_20260413_083259.qxw",
+  "widget_count": 673,
+  "widgets": [
+    {
+      "id": 0,
+      "type": "Frame",
+      "caption": "PUNT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 9000,
+      "type": "Frame",
+      "caption": "PUNT \u2014 content",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10000,
+      "type": "SoloFrame",
+      "caption": "OUTER RING",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10001,
+      "type": "Button",
+      "caption": "OUT RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        17
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10002,
+      "type": "Button",
+      "caption": "OUT ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        118
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10003,
+      "type": "Button",
+      "caption": "OUT YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        117
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10004,
+      "type": "Button",
+      "caption": "OUT GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        119
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10005,
+      "type": "Button",
+      "caption": "OUT GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        116
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10006,
+      "type": "Button",
+      "caption": "OUT CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        115
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10007,
+      "type": "Button",
+      "caption": "OUT BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        18
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10008,
+      "type": "Button",
+      "caption": "OUT PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        114
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10009,
+      "type": "Button",
+      "caption": "OUT WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1121
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10010,
+      "type": "Button",
+      "caption": "OUT BO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        30
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10011,
+      "type": "SoloFrame",
+      "caption": "INNER RING",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10012,
+      "type": "Button",
+      "caption": "IN RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        19
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10013,
+      "type": "Button",
+      "caption": "IN ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        124
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10014,
+      "type": "Button",
+      "caption": "IN YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        123
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10015,
+      "type": "Button",
+      "caption": "IN GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        125
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10016,
+      "type": "Button",
+      "caption": "IN GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        122
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10017,
+      "type": "Button",
+      "caption": "IN CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        121
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10018,
+      "type": "Button",
+      "caption": "IN BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        20
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10019,
+      "type": "Button",
+      "caption": "IN PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        120
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10020,
+      "type": "Button",
+      "caption": "IN WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1122
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10021,
+      "type": "Button",
+      "caption": "IN BO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        30
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10022,
+      "type": "SoloFrame",
+      "caption": "FULL RING",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10023,
+      "type": "Button",
+      "caption": "FULL RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1100
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10024,
+      "type": "Button",
+      "caption": "FULL ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1101
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10025,
+      "type": "Button",
+      "caption": "FULL YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1102
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10026,
+      "type": "Button",
+      "caption": "FULL GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1103
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10027,
+      "type": "Button",
+      "caption": "FULL GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1104
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10028,
+      "type": "Button",
+      "caption": "FULL CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1105
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10029,
+      "type": "Button",
+      "caption": "FULL BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1106
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10030,
+      "type": "Button",
+      "caption": "FULL PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1107
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10031,
+      "type": "Button",
+      "caption": "FULL WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1120
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10032,
+      "type": "Button",
+      "caption": "FULL BO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1108
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10033,
+      "type": "SoloFrame",
+      "caption": "LED PANEL Full",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10034,
+      "type": "Button",
+      "caption": "PNL RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        272
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10035,
+      "type": "Button",
+      "caption": "PNL ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        278
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10036,
+      "type": "Button",
+      "caption": "PNL YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        277
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10037,
+      "type": "Button",
+      "caption": "PNL GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        279
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10038,
+      "type": "Button",
+      "caption": "PNL GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        276
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10039,
+      "type": "Button",
+      "caption": "PNL CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        275
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10040,
+      "type": "Button",
+      "caption": "PNL BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        273
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10041,
+      "type": "Button",
+      "caption": "PNL PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        274
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10042,
+      "type": "Button",
+      "caption": "PNL WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        280
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10043,
+      "type": "Button",
+      "caption": "PNL PNK",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        514
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10044,
+      "type": "SoloFrame",
+      "caption": "SHEHDS COB Full",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10045,
+      "type": "Button",
+      "caption": "COB RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        379
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10046,
+      "type": "Button",
+      "caption": "COB ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        385
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10047,
+      "type": "Button",
+      "caption": "COB YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        384
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10048,
+      "type": "Button",
+      "caption": "COB GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        386
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10049,
+      "type": "Button",
+      "caption": "COB GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        383
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10050,
+      "type": "Button",
+      "caption": "COB CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        382
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10051,
+      "type": "Button",
+      "caption": "COB BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        380
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10052,
+      "type": "Button",
+      "caption": "COB PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        381
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10053,
+      "type": "Button",
+      "caption": "COB WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        387
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10054,
+      "type": "Button",
+      "caption": "COB PNK",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        523
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10055,
+      "type": "SoloFrame",
+      "caption": "A55 SEGMENTS",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10056,
+      "type": "Button",
+      "caption": "A55 RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1110
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10057,
+      "type": "Button",
+      "caption": "A55 ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1111
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10058,
+      "type": "Button",
+      "caption": "A55 YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1112
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10059,
+      "type": "Button",
+      "caption": "A55 GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1113
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10060,
+      "type": "Button",
+      "caption": "A55 GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1114
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10061,
+      "type": "Button",
+      "caption": "A55 CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1115
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10062,
+      "type": "Button",
+      "caption": "A55 BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1116
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10063,
+      "type": "Button",
+      "caption": "A55 PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1117
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10064,
+      "type": "Button",
+      "caption": "A55 WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1118
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10065,
+      "type": "Button",
+      "caption": "A55 OFF",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1119
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10066,
+      "type": "SoloFrame",
+      "caption": "LOOK",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10067,
+      "type": "Button",
+      "caption": "TRAP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1000
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10068,
+      "type": "Button",
+      "caption": "BASS",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1001
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10069,
+      "type": "Button",
+      "caption": "DUBSTEP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1002
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10070,
+      "type": "Button",
+      "caption": "RIDDIM",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1006
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10071,
+      "type": "Button",
+      "caption": "MELO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1007
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10072,
+      "type": "Button",
+      "caption": "DnB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1008
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10073,
+      "type": "SoloFrame",
+      "caption": "STATE / MACRO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10074,
+      "type": "Button",
+      "caption": "INTRO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3040
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10075,
+      "type": "Button",
+      "caption": "BUILD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3041
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10076,
+      "type": "Button",
+      "caption": "DROP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3042
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10077,
+      "type": "Button",
+      "caption": "BREAK",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3043
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10078,
+      "type": "Button",
+      "caption": "BRIDGE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3044
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10079,
+      "type": "Button",
+      "caption": "CLIMAX",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3045
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10080,
+      "type": "SoloFrame",
+      "caption": "RING FX",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10081,
+      "type": "Button",
+      "caption": "SWEEP CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1750
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10082,
+      "type": "Button",
+      "caption": "BAR CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1753
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10083,
+      "type": "Button",
+      "caption": "DUAL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1757
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10084,
+      "type": "Button",
+      "caption": "HALF",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1756
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10085,
+      "type": "Button",
+      "caption": "SWEEP RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1770
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10086,
+      "type": "Button",
+      "caption": "SWEEP BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1775
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10087,
+      "type": "Button",
+      "caption": "BAR PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2880
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10088,
+      "type": "Button",
+      "caption": "BOUNCE GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2865
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10089,
+      "type": "SoloFrame",
+      "caption": "MOTION",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10090,
+      "type": "Button",
+      "caption": "SOFT CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1200
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10091,
+      "type": "Button",
+      "caption": "SOFT F>B",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1201
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10092,
+      "type": "Button",
+      "caption": "BOUNCE CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1300
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10093,
+      "type": "Button",
+      "caption": "BOUNCE COB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1306
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10094,
+      "type": "Button",
+      "caption": "OUT>IN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        71
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10095,
+      "type": "Button",
+      "caption": "WAVE CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1510
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10096,
+      "type": "SoloFrame",
+      "caption": "STROBE RATE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10097,
+      "type": "Button",
+      "caption": "SLOW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2918
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10098,
+      "type": "Button",
+      "caption": "MED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2919
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10099,
+      "type": "Button",
+      "caption": "FAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2921
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10100,
+      "type": "Button",
+      "caption": "MASTER",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        73
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10101,
+      "type": "Button",
+      "caption": "BLITZ",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2923
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10102,
+      "type": "Button",
+      "caption": "STROBE OFF",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3061
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10103,
+      "type": "Button",
+      "caption": "FULL BO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        126
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10104,
+      "type": "Button",
+      "caption": "M-STROBE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        73
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10105,
+      "type": "SoloFrame",
+      "caption": "BUMP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10106,
+      "type": "Button",
+      "caption": "BUMP WHITE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3070
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10107,
+      "type": "Button",
+      "caption": "BUMP WARM",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3071
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10108,
+      "type": "Button",
+      "caption": "DECAY",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3072
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10109,
+      "type": "Button",
+      "caption": "BLACKOUT+HIT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3073
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10110,
+      "type": "SoloFrame",
+      "caption": "COMBOS",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10111,
+      "type": "Button",
+      "caption": "RED SW+STR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        44
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10112,
+      "type": "Button",
+      "caption": "GLD BNC+STR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        45
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10113,
+      "type": "Button",
+      "caption": "BLU BAR+STR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        46
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10114,
+      "type": "Button",
+      "caption": "WARM SOFT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        48
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10115,
+      "type": "Button",
+      "caption": "COOL BNCE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        49
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10116,
+      "type": "Button",
+      "caption": "FIRE DUAL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        50
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10117,
+      "type": "Button",
+      "caption": "R/BL SWEEP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        52
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10118,
+      "type": "Button",
+      "caption": "ENERGY DROP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        56
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10119,
+      "type": "Button",
+      "caption": "CHILL WAVE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        57
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10120,
+      "type": "Button",
+      "caption": "RAGE MODE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        58
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10121,
+      "type": "Button",
+      "caption": "PANIC",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3060
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10122,
+      "type": "Button",
+      "caption": "WHITE HIT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        21
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10123,
+      "type": "Button",
+      "caption": "WHITE OFF",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        22
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10124,
+      "type": "Button",
+      "caption": "LASER OFF",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        31
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10125,
+      "type": "Button",
+      "caption": "LASER AUTO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        32
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10126,
+      "type": "Button",
+      "caption": "COB AUTO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        34
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10127,
+      "type": "Button",
+      "caption": "COB WHITE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        33
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10128,
+      "type": "Button",
+      "caption": "BLIND WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        127
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10129,
+      "type": "Button",
+      "caption": "ALL WHITE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        128
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10130,
+      "type": "SpeedDial",
+      "caption": "RING FX",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10131,
+      "type": "SpeedDial",
+      "caption": "MOTION",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10132,
+      "type": "SpeedDial",
+      "caption": "RING STROBE ms",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10133,
+      "type": "Slider",
+      "caption": "OUTER",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10134,
+      "type": "Slider",
+      "caption": "INNER",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10135,
+      "type": "Slider",
+      "caption": "WHITE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10136,
+      "type": "Slider",
+      "caption": "PANEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10137,
+      "type": "Slider",
+      "caption": "COB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10138,
+      "type": "Slider",
+      "caption": "A55",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10139,
+      "type": "Slider",
+      "caption": "BLIND",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10140,
+      "type": "Slider",
+      "caption": "RINGS",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 10141,
+      "type": "Slider",
+      "caption": "GRAND",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 1,
+      "type": "Frame",
+      "caption": "EXTENDED BUSK",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 9001,
+      "type": "Frame",
+      "caption": "EXTENDED BUSK \u2014 content",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15000,
+      "type": "Button",
+      "caption": "RING FX MATRIX",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15001,
+      "type": "Button",
+      "caption": "SWEEP CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15002,
+      "type": "Button",
+      "caption": "SWEEP CCW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15003,
+      "type": "Button",
+      "caption": "SWEEP BNCE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15004,
+      "type": "Button",
+      "caption": "DUAL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15005,
+      "type": "Button",
+      "caption": "BAR CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15006,
+      "type": "Button",
+      "caption": "BAR CCW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15007,
+      "type": "Button",
+      "caption": "BAR BNCE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15008,
+      "type": "Button",
+      "caption": "HALF",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15009,
+      "type": "SoloFrame",
+      "caption": "RING FX GRID",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15010,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1750
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15011,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1751
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15012,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1752
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15013,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1757
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15014,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1753
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15015,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1754
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15016,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1755
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15017,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1756
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15018,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1770
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15019,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2850
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15020,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2858
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15021,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2866
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15022,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2874
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15023,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2882
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15024,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2890
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15025,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2898
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15026,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1771
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15027,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2851
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15028,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2859
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15029,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2867
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15030,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2875
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15031,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2883
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15032,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2891
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15033,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2899
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15034,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1772
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15035,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2852
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15036,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2860
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15037,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2868
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15038,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2876
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15039,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2884
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15040,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2892
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15041,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2900
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15042,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1773
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15043,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2853
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15044,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2861
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15045,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2869
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15046,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2877
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15047,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2885
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15048,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2893
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15049,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2901
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15050,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1774
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15051,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2854
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15052,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2862
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15053,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2870
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15054,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2878
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15055,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2886
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15056,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2894
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15057,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2902
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15058,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1775
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15059,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2855
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15060,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2863
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15061,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2871
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15062,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2879
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15063,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2887
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15064,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2895
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15065,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2903
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15066,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1776
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15067,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2856
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15068,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2864
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15069,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2872
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15070,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2880
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15071,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2888
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15072,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2896
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15073,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2904
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15074,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1777
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15075,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2857
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15076,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2865
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15077,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2873
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15078,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2881
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15079,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2889
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15080,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2897
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15081,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2905
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15082,
+      "type": "SpeedDial",
+      "caption": "RING FX",
+      "visibility": null,
+      "preset_count": 5,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15083,
+      "type": "Button",
+      "caption": "OI CHASE COLOR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15084,
+      "type": "SoloFrame",
+      "caption": "SOLID O+I",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15085,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2060
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15086,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2061
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15087,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2062
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15088,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2063
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15089,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2064
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15090,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2065
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15091,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2066
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15092,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2067
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15093,
+      "type": "Button",
+      "caption": "R/BL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2070
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15094,
+      "type": "Button",
+      "caption": "BL/R",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2071
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15095,
+      "type": "Button",
+      "caption": "G/P",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2072
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15096,
+      "type": "Button",
+      "caption": "P/G",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2073
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15097,
+      "type": "Button",
+      "caption": "C/O",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2074
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15098,
+      "type": "Button",
+      "caption": "O/C",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2075
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15099,
+      "type": "Button",
+      "caption": "G/R",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2076
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15100,
+      "type": "Button",
+      "caption": "Y/B",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2077
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15101,
+      "type": "Button",
+      "caption": "W/R",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2078
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15102,
+      "type": "Button",
+      "caption": "W/B",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2079
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15103,
+      "type": "Button",
+      "caption": "W/P",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2080
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15104,
+      "type": "Button",
+      "caption": "W/C",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2081
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15105,
+      "type": "Button",
+      "caption": "G/Cy",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2082
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15106,
+      "type": "Button",
+      "caption": "P/O",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2083
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15107,
+      "type": "Button",
+      "caption": "G/Pu",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2084
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15108,
+      "type": "SpeedDial",
+      "caption": "OI CHASE",
+      "visibility": null,
+      "preset_count": 5,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15109,
+      "type": "SoloFrame",
+      "caption": "4-CELL BLINDER",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15110,
+      "type": "Button",
+      "caption": "\u00f71 SLOW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        74
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15111,
+      "type": "Button",
+      "caption": "\u00f72 MED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        75
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15112,
+      "type": "Button",
+      "caption": "\u00f74 FAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        76
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15113,
+      "type": "Button",
+      "caption": "\u00f78 XFAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        77
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15114,
+      "type": "Button",
+      "caption": "\u00f716 BLITZ",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        78
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15115,
+      "type": "SoloFrame",
+      "caption": "SHEHDS COB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15116,
+      "type": "Button",
+      "caption": "\u00f71 SLOW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        79
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15117,
+      "type": "Button",
+      "caption": "\u00f72 MED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        80
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15118,
+      "type": "Button",
+      "caption": "\u00f74 FAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        81
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15119,
+      "type": "Button",
+      "caption": "\u00f78 XFAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        82
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15120,
+      "type": "Button",
+      "caption": "\u00f716 BLITZ",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        83
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15121,
+      "type": "SoloFrame",
+      "caption": "A55 SEGMENT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15122,
+      "type": "Button",
+      "caption": "\u00f71 SLOW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        84
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15123,
+      "type": "Button",
+      "caption": "\u00f72 MED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        85
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15124,
+      "type": "Button",
+      "caption": "\u00f74 FAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        86
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15125,
+      "type": "Button",
+      "caption": "\u00f78 XFAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        87
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15126,
+      "type": "Button",
+      "caption": "\u00f716 BLITZ",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        88
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15127,
+      "type": "SoloFrame",
+      "caption": "LED PANEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15128,
+      "type": "Button",
+      "caption": "\u00f71 SLOW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        89
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15129,
+      "type": "Button",
+      "caption": "\u00f72 MED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        90
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15130,
+      "type": "Button",
+      "caption": "\u00f74 FAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        91
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15131,
+      "type": "Button",
+      "caption": "\u00f78 XFAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        92
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15132,
+      "type": "Button",
+      "caption": "\u00f716 BLITZ",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        93
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15133,
+      "type": "SoloFrame",
+      "caption": "OUTER RING",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15134,
+      "type": "Button",
+      "caption": "\u00f71 SLOW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        94
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15135,
+      "type": "Button",
+      "caption": "\u00f72 MED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        95
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15136,
+      "type": "Button",
+      "caption": "\u00f74 FAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        96
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15137,
+      "type": "Button",
+      "caption": "\u00f78 XFAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        97
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15138,
+      "type": "Button",
+      "caption": "\u00f716 BLITZ",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        98
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15139,
+      "type": "SpeedDial",
+      "caption": "RATE OUTER RING",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15140,
+      "type": "SoloFrame",
+      "caption": "INNER RING",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15141,
+      "type": "Button",
+      "caption": "\u00f71 SLOW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        99
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15142,
+      "type": "Button",
+      "caption": "\u00f72 MED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        100
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15143,
+      "type": "Button",
+      "caption": "\u00f74 FAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        101
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15144,
+      "type": "Button",
+      "caption": "\u00f78 XFAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        102
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15145,
+      "type": "Button",
+      "caption": "\u00f716 BLITZ",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        103
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15146,
+      "type": "SpeedDial",
+      "caption": "RATE INNER RING",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15147,
+      "type": "SoloFrame",
+      "caption": "WHITE RING",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15148,
+      "type": "Button",
+      "caption": "\u00f71 SLOW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        104
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15149,
+      "type": "Button",
+      "caption": "\u00f72 MED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        105
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15150,
+      "type": "Button",
+      "caption": "\u00f74 FAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        106
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15151,
+      "type": "Button",
+      "caption": "\u00f78 XFAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        107
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15152,
+      "type": "Button",
+      "caption": "\u00f716 BLITZ",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        108
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15153,
+      "type": "SpeedDial",
+      "caption": "RATE WHITE RING",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15154,
+      "type": "SoloFrame",
+      "caption": "RINGS I+O",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15155,
+      "type": "Button",
+      "caption": "\u00f71 SLOW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        109
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15156,
+      "type": "Button",
+      "caption": "\u00f72 MED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        110
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15157,
+      "type": "Button",
+      "caption": "\u00f74 FAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        111
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15158,
+      "type": "Button",
+      "caption": "\u00f78 XFAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        112
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15159,
+      "type": "Button",
+      "caption": "\u00f716 BLITZ",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        113
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15160,
+      "type": "SpeedDial",
+      "caption": "RATE RINGS I+O",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15161,
+      "type": "Button",
+      "caption": "MASTER STROBE ALL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        73
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15162,
+      "type": "Button",
+      "caption": "SPLIT OUT/IN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15163,
+      "type": "SoloFrame",
+      "caption": "SPLIT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15164,
+      "type": "Button",
+      "caption": "RED / BLUE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1400
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15165,
+      "type": "Button",
+      "caption": "BLUE / RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1401
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15166,
+      "type": "Button",
+      "caption": "GOLD / PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1402
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15167,
+      "type": "Button",
+      "caption": "PUR / GOLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1403
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15168,
+      "type": "Button",
+      "caption": "CYAN / ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1404
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15169,
+      "type": "Button",
+      "caption": "ORA / CYAN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1405
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15170,
+      "type": "Button",
+      "caption": "GRN / RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1406
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15171,
+      "type": "Button",
+      "caption": "YEL / BLUE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1407
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15172,
+      "type": "Button",
+      "caption": "WHT / RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1408
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15173,
+      "type": "Button",
+      "caption": "WHT / BLUE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1409
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15174,
+      "type": "Button",
+      "caption": "WHT / PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1410
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15175,
+      "type": "Button",
+      "caption": "WHT / CYAN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1411
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15176,
+      "type": "Button",
+      "caption": "GOLD / CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1412
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15177,
+      "type": "Button",
+      "caption": "PUR / ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1413
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15178,
+      "type": "Button",
+      "caption": "GRN / PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1414
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15179,
+      "type": "Button",
+      "caption": "SOFT PANEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15180,
+      "type": "SoloFrame",
+      "caption": "SOFT PANEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15181,
+      "type": "Button",
+      "caption": "CW ROTATE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1200
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15182,
+      "type": "Button",
+      "caption": "FRONT>BACK",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1201
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15183,
+      "type": "Button",
+      "caption": "LEFT>RIGHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1202
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15184,
+      "type": "Button",
+      "caption": "DIAGONAL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1203
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15185,
+      "type": "Button",
+      "caption": "TRAP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1204
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15186,
+      "type": "Button",
+      "caption": "BASS",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1205
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15187,
+      "type": "Button",
+      "caption": "DUBSTEP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1206
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15188,
+      "type": "Button",
+      "caption": "BOUNCE PANEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15189,
+      "type": "SoloFrame",
+      "caption": "PP PANEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15190,
+      "type": "Button",
+      "caption": "CW ROTATE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1300
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15191,
+      "type": "Button",
+      "caption": "FRONT>BACK",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1301
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15192,
+      "type": "Button",
+      "caption": "LEFT>RIGHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1302
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15193,
+      "type": "Button",
+      "caption": "DIAG A",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1303
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15194,
+      "type": "Button",
+      "caption": "DIAG B",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1304
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15195,
+      "type": "Button",
+      "caption": "TRAP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1305
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15196,
+      "type": "Button",
+      "caption": "INT WAVE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15197,
+      "type": "SoloFrame",
+      "caption": "INT WAVE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15198,
+      "type": "Button",
+      "caption": "OUTER CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1510
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15199,
+      "type": "Button",
+      "caption": "OUTER BNCE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1511
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15200,
+      "type": "Button",
+      "caption": "INNER CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1512
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15201,
+      "type": "Button",
+      "caption": "INNER BNCE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1513
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15202,
+      "type": "Button",
+      "caption": "FULL PULSE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1514
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15203,
+      "type": "Button",
+      "caption": "OUTER REV",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1515
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15204,
+      "type": "Button",
+      "caption": "RGB MATRIX (panel FX)",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15205,
+      "type": "SoloFrame",
+      "caption": "RGB MATRIX",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15206,
+      "type": "Button",
+      "caption": "MATRIX 1",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        475
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15207,
+      "type": "Button",
+      "caption": "MATRIX 2",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        476
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15208,
+      "type": "Button",
+      "caption": "MATRIX 3",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        477
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15209,
+      "type": "Button",
+      "caption": "MATRIX 4",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        478
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15210,
+      "type": "Button",
+      "caption": "MATRIX 5",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        479
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15211,
+      "type": "Button",
+      "caption": "MATRIX 6",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        480
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15212,
+      "type": "Button",
+      "caption": "MATRIX 7",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        481
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15213,
+      "type": "Button",
+      "caption": "MATRIX 8",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        482
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15214,
+      "type": "Button",
+      "caption": "MATRIX 9",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        483
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 15215,
+      "type": "SpeedDial",
+      "caption": "MATRIX SPD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 2,
+      "type": "Frame",
+      "caption": "FX LIBRARY",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 9002,
+      "type": "Frame",
+      "caption": "FX LIBRARY \u2014 content",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20000,
+      "type": "SoloFrame",
+      "caption": "ALL-ROW SPECTRUM",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20001,
+      "type": "Button",
+      "caption": "ALL RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3000
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20002,
+      "type": "Button",
+      "caption": "ALL ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3001
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20003,
+      "type": "Button",
+      "caption": "ALL YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3002
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20004,
+      "type": "Button",
+      "caption": "ALL GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3003
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20005,
+      "type": "Button",
+      "caption": "ALL CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3004
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20006,
+      "type": "Button",
+      "caption": "ALL BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3005
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20007,
+      "type": "Button",
+      "caption": "ALL PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3006
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20008,
+      "type": "Button",
+      "caption": "ALL GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3007
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20009,
+      "type": "Button",
+      "caption": "ALL WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3008
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20010,
+      "type": "Button",
+      "caption": "ALL BO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3009
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20011,
+      "type": "SoloFrame",
+      "caption": "SPATIAL COB+A55",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20012,
+      "type": "Button",
+      "caption": "WARM F-B",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3020
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20013,
+      "type": "Button",
+      "caption": "RED F-B",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3021
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20014,
+      "type": "Button",
+      "caption": "GLD F-Pu",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3022
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20015,
+      "type": "Button",
+      "caption": "CYN F-Or",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3023
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20016,
+      "type": "Button",
+      "caption": "GRN F-Rd",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3024
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20017,
+      "type": "Button",
+      "caption": "WHT F-Rd",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3025
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20018,
+      "type": "Button",
+      "caption": "WHT F-Bl",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3026
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20019,
+      "type": "Button",
+      "caption": "Pu F-Gld",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3027
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20020,
+      "type": "Button",
+      "caption": "Or F-Cy",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3028
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20021,
+      "type": "Button",
+      "caption": "Bl F-Gld",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3029
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20022,
+      "type": "Button",
+      "caption": "BL F-Rd",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3030
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20023,
+      "type": "Button",
+      "caption": "CY F-Pu",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3031
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20024,
+      "type": "Button",
+      "caption": "GLD F-Gr",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3032
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20025,
+      "type": "Button",
+      "caption": "RD F-Gld",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3033
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20026,
+      "type": "Button",
+      "caption": "WHT F-Cy",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3034
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20027,
+      "type": "Button",
+      "caption": "Or F-Bl",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3035
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20028,
+      "type": "Button",
+      "caption": "Pu F-Cy",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3036
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20029,
+      "type": "Button",
+      "caption": "GR F-Gld",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3037
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20030,
+      "type": "Button",
+      "caption": "YEL F-Bl",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3038
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20031,
+      "type": "Button",
+      "caption": "GLD F-Rd",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3039
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20032,
+      "type": "SoloFrame",
+      "caption": "TUNNEL FX",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20033,
+      "type": "Button",
+      "caption": "TN 1",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3300
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20034,
+      "type": "Button",
+      "caption": "TN 2",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3301
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20035,
+      "type": "Button",
+      "caption": "TN 3",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3302
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20036,
+      "type": "Button",
+      "caption": "TN 4",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3303
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20037,
+      "type": "Button",
+      "caption": "TN 5",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3304
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20038,
+      "type": "Button",
+      "caption": "TN 6",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3305
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20039,
+      "type": "Button",
+      "caption": "TN 7",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3306
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20040,
+      "type": "Button",
+      "caption": "TN 8",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3307
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20041,
+      "type": "Button",
+      "caption": "CONV",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3320
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20042,
+      "type": "Button",
+      "caption": "BRTH",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3321
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20043,
+      "type": "Button",
+      "caption": "T RD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3322
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20044,
+      "type": "Button",
+      "caption": "T OR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3323
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20045,
+      "type": "Button",
+      "caption": "T YL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3324
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20046,
+      "type": "Button",
+      "caption": "T GR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3325
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20047,
+      "type": "Button",
+      "caption": "T CY",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3326
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20048,
+      "type": "Button",
+      "caption": "T BL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3327
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20049,
+      "type": "Button",
+      "caption": "T PR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3328
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20050,
+      "type": "Button",
+      "caption": "T GL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3329
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20051,
+      "type": "SpeedDial",
+      "caption": "TUNNEL",
+      "visibility": null,
+      "preset_count": 5,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20052,
+      "type": "SoloFrame",
+      "caption": "WHITE RING LAYER",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20053,
+      "type": "Button",
+      "caption": "SEG",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3416
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20054,
+      "type": "Button",
+      "caption": "ALT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3417
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20055,
+      "type": "Button",
+      "caption": "SHIM",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3418
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20056,
+      "type": "Button",
+      "caption": "2x",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3419
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20057,
+      "type": "Button",
+      "caption": "SPARKLE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3436
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20058,
+      "type": "Button",
+      "caption": "BREATHE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3437
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20059,
+      "type": "Button",
+      "caption": "FILL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3438
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20060,
+      "type": "SpeedDial",
+      "caption": "WHT RING",
+      "visibility": null,
+      "preset_count": 5,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20061,
+      "type": "SoloFrame",
+      "caption": "BASS HITS",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20062,
+      "type": "Button",
+      "caption": "F COB+BL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3500
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20063,
+      "type": "Button",
+      "caption": "B COB+BL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3501
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20064,
+      "type": "Button",
+      "caption": "ALT FB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3502
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20065,
+      "type": "Button",
+      "caption": "F A55",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3503
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20066,
+      "type": "Button",
+      "caption": "B A55",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3504
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20067,
+      "type": "Button",
+      "caption": "ALT A55",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3505
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20068,
+      "type": "Button",
+      "caption": "F COB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3506
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20069,
+      "type": "Button",
+      "caption": "B COB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3507
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20070,
+      "type": "Button",
+      "caption": "ALT COB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3508
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20071,
+      "type": "Button",
+      "caption": "QUAD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3509
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20072,
+      "type": "SoloFrame",
+      "caption": "BASS HITS HOLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20073,
+      "type": "Button",
+      "caption": "H F COB+BL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3500
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20074,
+      "type": "Button",
+      "caption": "H B COB+BL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3501
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20075,
+      "type": "Button",
+      "caption": "H ALT FB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3502
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20076,
+      "type": "Button",
+      "caption": "H F A55",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3503
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20077,
+      "type": "Button",
+      "caption": "H B A55",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3504
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20078,
+      "type": "Button",
+      "caption": "H ALT A55",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3505
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20079,
+      "type": "Button",
+      "caption": "H F COB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3506
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20080,
+      "type": "Button",
+      "caption": "H B COB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3507
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20081,
+      "type": "Button",
+      "caption": "H ALT COB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3508
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20082,
+      "type": "Button",
+      "caption": "H QUAD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3509
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20083,
+      "type": "SoloFrame",
+      "caption": "WHITE RING EXT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20084,
+      "type": "Button",
+      "caption": "SEG",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3416
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20085,
+      "type": "Button",
+      "caption": "ALT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3417
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20086,
+      "type": "Button",
+      "caption": "SHIM",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3418
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20087,
+      "type": "Button",
+      "caption": "2x",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3419
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20088,
+      "type": "Button",
+      "caption": "SPARKLE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3436
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20089,
+      "type": "Button",
+      "caption": "BREATHE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3437
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20090,
+      "type": "Button",
+      "caption": "FILL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3438
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20091,
+      "type": "Button",
+      "caption": "ARC DUBSTEP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3600
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20092,
+      "type": "Button",
+      "caption": "ARC TRAP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3601
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20093,
+      "type": "Button",
+      "caption": "ARC HOUSE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3602
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20094,
+      "type": "Button",
+      "caption": "ARC DnB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3603
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20095,
+      "type": "Button",
+      "caption": "ARC RIDDIM",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3604
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 20096,
+      "type": "Button",
+      "caption": "ARC MELODIC",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3605
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 3,
+      "type": "Frame",
+      "caption": "TOUCH BUSK",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 9003,
+      "type": "Frame",
+      "caption": "TOUCH BUSK \u2014 content",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25000,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1100
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25001,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1101
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25002,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1102
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25003,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1103
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25004,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1104
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25005,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1105
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25006,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1106
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25007,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1107
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25008,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1120
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25009,
+      "type": "Button",
+      "caption": "BO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1108
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25010,
+      "type": "Button",
+      "caption": "TRAP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1000
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25011,
+      "type": "Button",
+      "caption": "BASS",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1001
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25012,
+      "type": "Button",
+      "caption": "DUB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1002
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25013,
+      "type": "Button",
+      "caption": "RIDDIM",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1006
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25014,
+      "type": "Button",
+      "caption": "MELO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1007
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25015,
+      "type": "Button",
+      "caption": "DnB",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1008
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25016,
+      "type": "Button",
+      "caption": "INTRO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3040
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25017,
+      "type": "Button",
+      "caption": "BUILD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3041
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25018,
+      "type": "Button",
+      "caption": "DROP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3042
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25019,
+      "type": "Button",
+      "caption": "BREAK",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3043
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25020,
+      "type": "Button",
+      "caption": "BRIDGE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3044
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25021,
+      "type": "Button",
+      "caption": "CLIMAX",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3045
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25022,
+      "type": "Button",
+      "caption": "SW CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1750
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25023,
+      "type": "Button",
+      "caption": "BAR CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1753
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25024,
+      "type": "Button",
+      "caption": "DUAL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1757
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25025,
+      "type": "Button",
+      "caption": "HALF",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1756
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25026,
+      "type": "Button",
+      "caption": "SW RD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1770
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25027,
+      "type": "Button",
+      "caption": "SW BL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1775
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25028,
+      "type": "Button",
+      "caption": "BAR Pu",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2880
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25029,
+      "type": "Button",
+      "caption": "BN GL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2865
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25030,
+      "type": "Button",
+      "caption": "R/BL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2070
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25031,
+      "type": "Button",
+      "caption": "BL/R",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2071
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25032,
+      "type": "Button",
+      "caption": "G/P",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2072
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25033,
+      "type": "Button",
+      "caption": "P/G",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2073
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25034,
+      "type": "Button",
+      "caption": "C/O",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2074
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25035,
+      "type": "Button",
+      "caption": "W/R",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2078
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25036,
+      "type": "Button",
+      "caption": "W/B",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2079
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25037,
+      "type": "Button",
+      "caption": "W/P",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2080
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25038,
+      "type": "Button",
+      "caption": "SOFT CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1200
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25039,
+      "type": "Button",
+      "caption": "BNCE CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1300
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25040,
+      "type": "Button",
+      "caption": "O>I",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        71
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25041,
+      "type": "Button",
+      "caption": "WAVE",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1510
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25042,
+      "type": "Button",
+      "caption": "SOFT F>B",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1201
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25043,
+      "type": "Button",
+      "caption": "SOFT L>R",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        1202
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25044,
+      "type": "Button",
+      "caption": "SLOW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2918
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25045,
+      "type": "Button",
+      "caption": "MED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2919
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25046,
+      "type": "Button",
+      "caption": "FAST",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2921
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25047,
+      "type": "Button",
+      "caption": "MASTR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        73
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25048,
+      "type": "Button",
+      "caption": "BLITZ",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2923
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25049,
+      "type": "Button",
+      "caption": "STR OFF",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3061
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25050,
+      "type": "Button",
+      "caption": "BUMP W",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3070
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25051,
+      "type": "Button",
+      "caption": "BUMP M",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3071
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25052,
+      "type": "Button",
+      "caption": "DECAY",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3072
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25053,
+      "type": "Button",
+      "caption": "BO+HIT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3073
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25054,
+      "type": "Button",
+      "caption": "PANIC",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3060
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25055,
+      "type": "Button",
+      "caption": "FULL BO",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        126
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25056,
+      "type": "SpeedDial",
+      "caption": "RING FX",
+      "visibility": null,
+      "preset_count": 5,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25057,
+      "type": "SpeedDial",
+      "caption": "MOTION",
+      "visibility": null,
+      "preset_count": 5,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 25058,
+      "type": "SpeedDial",
+      "caption": "RING STROBE ms",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 4,
+      "type": "Frame",
+      "caption": "SOFT / ACCEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 9004,
+      "type": "Frame",
+      "caption": "SOFT / ACCEL \u2014 content",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26000,
+      "type": "Button",
+      "caption": "SOFT RING",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26001,
+      "type": "Button",
+      "caption": "SW CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26002,
+      "type": "Button",
+      "caption": "SW CCW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26003,
+      "type": "Button",
+      "caption": "SW BN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26004,
+      "type": "Button",
+      "caption": "DUAL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26005,
+      "type": "Button",
+      "caption": "BAR CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26006,
+      "type": "Button",
+      "caption": "BAR CC",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26007,
+      "type": "Button",
+      "caption": "BAR BN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26008,
+      "type": "Button",
+      "caption": "HALF",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26009,
+      "type": "SoloFrame",
+      "caption": "SOFT FX GRID",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26010,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3100
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26011,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3101
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26012,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3102
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26013,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3107
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26014,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3103
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26015,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3104
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26016,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3105
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26017,
+      "type": "Button",
+      "caption": "WHT",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3106
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26018,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3108
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26019,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3116
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26020,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3124
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26021,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3132
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26022,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3140
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26023,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3148
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26024,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2890
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26025,
+      "type": "Button",
+      "caption": "RED",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2898
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26026,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3109
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26027,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3117
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26028,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3125
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26029,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3133
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26030,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3141
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26031,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3149
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26032,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2891
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26033,
+      "type": "Button",
+      "caption": "ORA",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2899
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26034,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3110
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26035,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3118
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26036,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3126
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26037,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3134
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26038,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3142
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26039,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3150
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26040,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2892
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26041,
+      "type": "Button",
+      "caption": "YEL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2900
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26042,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3111
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26043,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3119
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26044,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3127
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26045,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3135
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26046,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3143
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26047,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3151
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26048,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2893
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26049,
+      "type": "Button",
+      "caption": "GRN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2901
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26050,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3112
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26051,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3120
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26052,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3128
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26053,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3136
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26054,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3144
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26055,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3152
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26056,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2894
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26057,
+      "type": "Button",
+      "caption": "CYN",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2902
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26058,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3113
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26059,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3121
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26060,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3129
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26061,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3137
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26062,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3145
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26063,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3153
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26064,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2895
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26065,
+      "type": "Button",
+      "caption": "BLU",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2903
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26066,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3114
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26067,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3122
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26068,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3130
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26069,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3138
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26070,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3146
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26071,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3154
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26072,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2896
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26073,
+      "type": "Button",
+      "caption": "PUR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2904
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26074,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3115
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26075,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3123
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26076,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3131
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26077,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3139
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26078,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3147
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26079,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3155
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26080,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2897
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26081,
+      "type": "Button",
+      "caption": "GLD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        2905
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26082,
+      "type": "SpeedDial",
+      "caption": "SOFT",
+      "visibility": null,
+      "preset_count": 5,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26083,
+      "type": "Button",
+      "caption": "ACCEL CHASERS",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        4294967295
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26084,
+      "type": "Button",
+      "caption": "A SW W CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3200
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26085,
+      "type": "Button",
+      "caption": "A SW RD",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3201
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26086,
+      "type": "Button",
+      "caption": "A SW OR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3202
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26087,
+      "type": "Button",
+      "caption": "A SW YL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3203
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26088,
+      "type": "Button",
+      "caption": "A SW GR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3204
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26089,
+      "type": "Button",
+      "caption": "A SW CY",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3205
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26090,
+      "type": "Button",
+      "caption": "A SW BL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3206
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26091,
+      "type": "Button",
+      "caption": "A SW PR",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3207
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26092,
+      "type": "Button",
+      "caption": "A SW GL",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3208
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26093,
+      "type": "Button",
+      "caption": "A SW W PP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3209
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26094,
+      "type": "Button",
+      "caption": "A BAR T1",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3210
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26095,
+      "type": "Button",
+      "caption": "A BAR T2",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3211
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26096,
+      "type": "Button",
+      "caption": "A BAR T3",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3212
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26097,
+      "type": "Button",
+      "caption": "A BAR T4",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3213
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26098,
+      "type": "Button",
+      "caption": "A BAR PP",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3214
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26099,
+      "type": "Button",
+      "caption": "A DUAL CW",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3215
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26100,
+      "type": "Button",
+      "caption": "A HALF SPIN 1",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3216
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26101,
+      "type": "Button",
+      "caption": "A SW CCW T 1",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3217
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26102,
+      "type": "Button",
+      "caption": "A BAR CCW 1",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3218
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26103,
+      "type": "Button",
+      "caption": "A DUAL PP 1",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3219
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26104,
+      "type": "Button",
+      "caption": "A HALF SPIN 2",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3220
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26105,
+      "type": "Button",
+      "caption": "A SW CCW T 2",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3221
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26106,
+      "type": "Button",
+      "caption": "A BAR CCW 2",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3222
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26107,
+      "type": "Button",
+      "caption": "A DUAL PP 2",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3223
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26108,
+      "type": "Button",
+      "caption": "A HALF SPIN 3",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3224
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26109,
+      "type": "Button",
+      "caption": "A SW CCW T 3",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3225
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26110,
+      "type": "Button",
+      "caption": "A BAR CCW 3",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3226
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26111,
+      "type": "Button",
+      "caption": "A DUAL PP 3",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3227
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26112,
+      "type": "Button",
+      "caption": "A HALF SPIN 4",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3228
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26113,
+      "type": "Button",
+      "caption": "A SW CCW T 4",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3229
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26114,
+      "type": "Button",
+      "caption": "A BAR CCW 4",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3230
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26115,
+      "type": "Button",
+      "caption": "A DUAL PP 4",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3231
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26116,
+      "type": "Button",
+      "caption": "A HALF SPIN 5",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3232
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26117,
+      "type": "Button",
+      "caption": "A SW CCW T 5",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3233
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26118,
+      "type": "Button",
+      "caption": "A BAR CCW 5",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3234
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26119,
+      "type": "Button",
+      "caption": "A DUAL PP 5",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3235
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26120,
+      "type": "Button",
+      "caption": "A HALF SPIN 6",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3236
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26121,
+      "type": "Button",
+      "caption": "A SW CCW T 6",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3237
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26122,
+      "type": "Button",
+      "caption": "A BAR CCW 6",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3238
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26123,
+      "type": "Button",
+      "caption": "A DUAL PP 6",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3239
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26124,
+      "type": "Button",
+      "caption": "A HALF SPIN 7",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3240
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26125,
+      "type": "Button",
+      "caption": "A SW CCW T 7",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3241
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26126,
+      "type": "Button",
+      "caption": "A BAR CCW 7",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3242
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26127,
+      "type": "Button",
+      "caption": "A DUAL PP 7",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3243
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26128,
+      "type": "Button",
+      "caption": "A HALF SPIN 8",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3244
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26129,
+      "type": "Button",
+      "caption": "A SW CCW T 8",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3245
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26130,
+      "type": "Button",
+      "caption": "A BAR CCW 8",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3246
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26131,
+      "type": "Button",
+      "caption": "A DUAL PP 8",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3247
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26132,
+      "type": "Button",
+      "caption": "A HALF SPIN 9",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3248
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26133,
+      "type": "Button",
+      "caption": "A SW CCW T 9",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3249
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26134,
+      "type": "Button",
+      "caption": "A BAR CCW 9",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3250
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26135,
+      "type": "Button",
+      "caption": "A DUAL PP 9",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3251
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26136,
+      "type": "Button",
+      "caption": "A HALF SPIN 10",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3252
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26137,
+      "type": "Button",
+      "caption": "A SW CCW T 10",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3253
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26138,
+      "type": "Button",
+      "caption": "A BAR CCW 10",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3254
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26139,
+      "type": "Button",
+      "caption": "A DUAL PP 10",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3255
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26140,
+      "type": "Button",
+      "caption": "A HALF SPIN 11",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3256
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26141,
+      "type": "Button",
+      "caption": "A SW CCW T 11",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3257
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26142,
+      "type": "Button",
+      "caption": "A BAR CCW 11",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3258
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26143,
+      "type": "Button",
+      "caption": "A DUAL PP 11",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3259
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26144,
+      "type": "Button",
+      "caption": "A HALF SPIN 12",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3260
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26145,
+      "type": "Button",
+      "caption": "A SW CCW T 12",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3261
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26146,
+      "type": "Button",
+      "caption": "A BAR CCW 12",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3262
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26147,
+      "type": "Button",
+      "caption": "A DUAL PP 12",
+      "visibility": null,
+      "preset_count": 0,
+      "fn_count": 1,
+      "fn_refs": [
+        3263
+      ],
+      "w": null,
+      "h": null
+    },
+    {
+      "id": 26148,
+      "type": "SpeedDial",
+      "caption": "ACCEL",
+      "visibility": null,
+      "preset_count": 5,
+      "fn_count": 0,
+      "fn_refs": [],
+      "w": null,
+      "h": null
+    }
+  ]
+}

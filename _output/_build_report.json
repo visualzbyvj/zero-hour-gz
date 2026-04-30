@@ -1,0 +1,117 @@
+{
+  "started": "2026-04-18T05:39:33.454427",
+  "steps": [
+    {
+      "script": "_builders/_build_advanced_fns.py",
+      "status": "ok",
+      "ms": 235
+    },
+    {
+      "script": "_builders/_patch_ring_chase.py",
+      "status": "ok",
+      "ms": 188
+    },
+    {
+      "script": "_builders/_build_ring_fx.py",
+      "status": "ok",
+      "ms": 229
+    },
+    {
+      "script": "_builders/_build_ring_out_in_chase.py",
+      "status": "ok",
+      "ms": 195
+    },
+    {
+      "script": "_builders/_build_colored_out_in.py",
+      "status": "ok",
+      "ms": 191
+    },
+    {
+      "script": "_builders/_build_ring_fx_matrix.py",
+      "status": "ok",
+      "ms": 258
+    },
+    {
+      "script": "_builders/_build_strobes.py",
+      "status": "ok",
+      "ms": 401
+    },
+    {
+      "script": "_builders/_build_all_color.py",
+      "status": "ok",
+      "ms": 168
+    },
+    {
+      "script": "_builders/_build_spatial_splits.py",
+      "status": "ok",
+      "ms": 162
+    },
+    {
+      "script": "_builders/_build_macros.py",
+      "status": "ok",
+      "ms": 172
+    },
+    {
+      "script": "_builders/_build_bump.py",
+      "status": "ok",
+      "ms": 176
+    },
+    {
+      "script": "_builders/_build_ring_fx_soft.py",
+      "status": "ok",
+      "ms": 1187
+    },
+    {
+      "script": "_builders/_build_accel_chasers.py",
+      "status": "ok",
+      "ms": 166
+    },
+    {
+      "script": "_builders/_build_tunnel.py",
+      "status": "ok",
+      "ms": 167
+    },
+    {
+      "script": "_builders/_build_white_ring_layer.py",
+      "status": "ok",
+      "ms": 181
+    },
+    {
+      "script": "_builders/_build_bass_hits.py",
+      "status": "ok",
+      "ms": 169
+    },
+    {
+      "script": "_builders/_build_show_arc.py",
+      "status": "ok",
+      "ms": 162
+    },
+    {
+      "script": "_builders/_build_intensity_faders.py",
+      "status": "ok",
+      "ms": 334
+    },
+    {
+      "script": "_builders/_build_ring_rgbmatrix.py",
+      "status": "ok",
+      "ms": 262
+    },
+    {
+      "script": "_builders/_build_cosmic.py",
+      "status": "ok",
+      "ms": 171
+    },
+    {
+      "script": "_builders/_build_genres.py",
+      "status": "ok",
+      "ms": 173
+    },
+    {
+      "script": "_builders/_build_new_vc.py",
+      "status": "ok",
+      "ms": 134
+    }
+  ],
+  "failed": [],
+  "elapsed_ms": 7060
+}

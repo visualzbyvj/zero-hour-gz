@@ -1,0 +1,22 @@
+# ── Showfile backups (auto-generated, very large) ────────────────────────────
+_Showfile_Backups/
+_PRE_RESTRUCTURE_BACKUP_20260413/
+*.qxw.bak
+*.autosave.qxw
+
+# ── Third-party / large binary assets ────────────────────────────────────────
+qlcplus-QLC-_5.2.1 Source Code/
+Manuals/
+_snapshots/
+
+# ── Temporary / generated output ─────────────────────────────────────────────
+_frames_tmp/
+__pycache__/
+*.py[cod]
+*.pyo
+debug-*.log
+
+# ── Editor / OS ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini

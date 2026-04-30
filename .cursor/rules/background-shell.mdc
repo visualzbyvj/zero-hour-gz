@@ -1,0 +1,29 @@
+---
+description: Always run shell commands in the background instead of blocking
+alwaysApply: true
+---
+
+# Background Shell Commands
+
+The user prefers commands to run in the background rather than having the agent
+block while waiting for them to finish (i.e. avoid the "Agent is waiting for a
+command to finish" prompt).
+
+## Rules
+
+- When calling the Shell tool, default `block_until_ms: 0` so the command is
+  backgrounded immediately after launch.
+- After backgrounding, use the `Await` tool to poll for completion only when
+  the output is actually needed for the next step.
+- For commands that are expected to finish in well under 1 second (e.g. simple
+  file checks, `echo`, `pwd`), short blocking is acceptable — but when in
+  doubt, background.
+- Never force the user to manually click "Run in background"; always pick that
+  path proactively.
+
+## Example
+
+```
+Shell({ command: "python build.py", block_until_ms: 0 })
+Await({ task_id: <returned id>, block_until_ms: 30000 })
+```

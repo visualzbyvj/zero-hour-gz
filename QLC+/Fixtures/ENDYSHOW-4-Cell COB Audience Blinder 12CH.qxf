@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FixtureDefinition>
+<FixtureDefinition xmlns="http://www.qlcplus.org/FixtureDefinition">
+ <Creator>
+  <Name>Q Light Controller Plus</Name>
+  <Version>5.2.1</Version>
+  <Author>VJ</Author>
+ </Creator>
+ <Manufacturer>ENDYSHOW</Manufacturer>
+ <Model>4 Cell COB Audience Blinder 12CH</Model>
+ <Type>Strobe</Type>
+ <Channel Name="Cold White 1" Preset="IntensityDimmer"/>
+ <Channel Name="Cold White 2" Preset="IntensityDimmer"/>
+ <Channel Name="Cold White 3" Preset="IntensityDimmer"/>
+ <Channel Name="Cold White 4" Preset="IntensityDimmer"/>
+ <Channel Name="Warm White 1" Preset="IntensityDimmer"/>
+ <Channel Name="Warm White 2" Preset="IntensityDimmer"/>
+ <Channel Name="Warm White 3" Preset="IntensityDimmer"/>
+ <Channel Name="Warm White 4" Preset="IntensityDimmer"/>
+ <Channel Name="Master Dimmer" Default="255">
+  <Group Byte="0">Intensity</Group>
+  <Capability Min="0" Max="255">Total Dimming from Dark To Bright</Capability>
+ </Channel>
+ <Channel Name="Strobe">
+  <Group Byte="0">Shutter</Group>
+  <Capability Min="0" Max="1">Open / No Strobe</Capability>
+ </Channel>
+ <Channel Name="Effect Mode">
+  <Group Byte="0">Effect</Group>
+  <Capability Min="0" Max="50">Static / Manual Control</Capability>
+  <Capability Min="51" Max="100">Capability Jump Effect</Capability>
+  <Capability Min="101" Max="150">Gradual Fade Effect</Capability>
+  <Capability Min="151" Max="200">Sudden Change Effect</Capability>
+  <Capability Min="201" Max="255">Sound Jump Effect</Capability>
+ </Channel>
+ <Channel Name="Effect Speed">
+  <Group Byte="0">Speed</Group>
+  <Capability Min="1" Max="255">Built in mode Speed Adjustment</Capability>
+ </Channel>
+ <Mode Name="12ch">
+  <Channel Number="0">Master Dimmer</Channel>
+  <Channel Number="1">Strobe</Channel>
+  <Channel Number="2">Effect Mode</Channel>
+  <Channel Number="3">Effect Speed</Channel>
+  <Channel Number="4">Cold White 1</Channel>
+  <Channel Number="5">Cold White 2</Channel>
+  <Channel Number="6">Cold White 3</Channel>
+  <Channel Number="7">Cold White 4</Channel>
+  <Channel Number="8">Warm White 1</Channel>
+  <Channel Number="9">Warm White 2</Channel>
+  <Channel Number="10">Warm White 3</Channel>
+  <Channel Number="11">Warm White 4</Channel>
+  <Head>
+   <Channel>4</Channel>
+  </Head>
+  <Head>
+   <Channel>5</Channel>
+  </Head>
+  <Head>
+   <Channel>6</Channel>
+  </Head>
+  <Head>
+   <Channel>7</Channel>
+  </Head>
+  <Head>
+   <Channel>8</Channel>
+  </Head>
+  <Head>
+   <Channel>9</Channel>
+  </Head>
+  <Head>
+   <Channel>10</Channel>
+  </Head>
+  <Head>
+   <Channel>11</Channel>
+  </Head>
+ </Mode>
+ <Physical>
+  <Bulb Type="LED" Lumens="20000" ColourTemperature="4500"/>
+  <Dimensions Weight="3.01" Width="315" Height="315" Depth="198"/>
+  <Lens Name="Other" DegreesMin="86" DegreesMax="90"/>
+  <Focus Type="Fixed" PanMax="0" TiltMax="0"/>
+  <Layout Width="4" Height="2"/>
+  <Technical PowerConsumption="201" DmxConnector="3-pin"/>
+ </Physical>
+</FixtureDefinition>

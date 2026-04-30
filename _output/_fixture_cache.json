@@ -1,0 +1,2002 @@
+{
+  "generated": "2026-04-13T15:32:59.711793+00:00",
+  "source_dir": "E:\\Dropbox\\04.11.26 Zero Hour GZ\\QLC+\\Fixtures",
+  "count": 8,
+  "fixtures": [
+    {
+      "file": "ENDYSHOW-4-Cell COB Audience Blinder 12CH.qxf",
+      "manufacturer": "ENDYSHOW",
+      "model": "4 Cell COB Audience Blinder 12CH",
+      "modes": {
+        "12ch": 12
+      },
+      "has_rgb": false,
+      "has_white": false,
+      "has_strobe": true,
+      "has_pan_tilt": false,
+      "segment_count": 0,
+      "channels_detail": [
+        {
+          "name": "Master Dimmer",
+          "group": "Intensity",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Strobe",
+          "group": "Shutter",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Effect Mode",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Effect Speed",
+          "group": "Speed",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Cold White 1",
+          "group": "Intensity",
+          "colour": "",
+          "preset": "IntensityDimmer"
+        },
+        {
+          "name": "Cold White 2",
+          "group": "Intensity",
+          "colour": "",
+          "preset": "IntensityDimmer"
+        },
+        {
+          "name": "Cold White 3",
+          "group": "Intensity",
+          "colour": "",
+          "preset": "IntensityDimmer"
+        },
+        {
+          "name": "Cold White 4",
+          "group": "Intensity",
+          "colour": "",
+          "preset": "IntensityDimmer"
+        },
+        {
+          "name": "Warm White 1",
+          "group": "Intensity",
+          "colour": "",
+          "preset": "IntensityDimmer"
+        },
+        {
+          "name": "Warm White 2",
+          "group": "Intensity",
+          "colour": "",
+          "preset": "IntensityDimmer"
+        },
+        {
+          "name": "Warm White 3",
+          "group": "Intensity",
+          "colour": "",
+          "preset": "IntensityDimmer"
+        },
+        {
+          "name": "Warm White 4",
+          "group": "Intensity",
+          "colour": "",
+          "preset": "IntensityDimmer"
+        }
+      ]
+    },
+    {
+      "file": "FODEXAZY-LED-Matrix Panel 154ch.qxf",
+      "manufacturer": "FODEXAZY",
+      "model": "LED Matrix Panel 154ch",
+      "modes": {
+        "154ch": 154
+      },
+      "has_rgb": true,
+      "has_white": true,
+      "has_strobe": true,
+      "has_pan_tilt": false,
+      "segment_count": 48,
+      "channels_detail": [
+        {
+          "name": "Master Dimmer",
+          "group": "Intensity",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Strobe",
+          "group": "Shutter",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Red 1",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 1",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 1",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 2",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 2",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 2",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 3",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 3",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 3",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 4",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 4",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 4",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 5",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 5",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 5",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 6",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 6",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 6",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 7",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 7",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 7",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 8",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 8",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 8",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 9",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 9",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 9",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 10",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 10",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 10",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 11",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 11",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 11",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 12",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 12",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 12",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 13",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 13",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 13",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 14",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 14",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 14",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 15",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 15",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 15",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 16",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 16",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 16",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 17",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 17",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 17",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 18",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 18",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 18",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 19",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 19",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 19",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 20",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 20",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 20",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 21",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 21",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 21",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 22",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 22",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 22",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 23",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 23",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 23",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 24",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 24",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 24",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 25",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 25",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 25",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 26",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 26",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 26",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 27",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 27",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 27",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 28",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 28",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 28",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 29",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 29",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 29",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 30",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 30",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 30",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 31",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 31",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 31",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 32",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 32",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 32",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 33",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 33",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 33",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 34",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 34",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 34",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 35",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 35",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 35",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 36",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 36",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 36",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 37",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 37",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 37",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 38",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 38",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 38",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 39",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 39",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 39",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 40",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 40",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 40",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 41",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 41",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 41",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 42",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 42",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 42",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 43",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 43",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 43",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 44",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 44",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 44",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 45",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 45",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 45",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 46",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 46",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 46",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 47",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 47",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 47",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 48",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 48",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 48",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "White 1",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 2",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 3",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 4",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 5",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 6",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 7",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 8",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        }
+      ]
+    },
+    {
+      "file": "Generic-RGB-Animation Laser 34ch.qxf",
+      "manufacturer": "U`King",
+      "model": "ZQ05031 RGB Animation Laser",
+      "modes": {
+        "34ch": 34,
+        "6ch": 6
+      },
+      "has_rgb": false,
+      "has_white": false,
+      "has_strobe": false,
+      "has_pan_tilt": true,
+      "segment_count": 0,
+      "channels_detail": [
+        {
+          "name": "Laser A Mode",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Boundary / Size",
+          "group": "Beam",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Group Select",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Pattern Select",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Zoom",
+          "group": "Beam",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Rotation",
+          "group": "Beam",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A X Move",
+          "group": "Pan",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Y Move",
+          "group": "Tilt",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A X Distort / Zoom",
+          "group": "Beam",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Y Distort / Zoom",
+          "group": "Beam",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Fixed Color",
+          "group": "Colour",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Color FX",
+          "group": "Colour",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Dot FX",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Draw Mode",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Draw Speed",
+          "group": "Speed",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Twist",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser A Grating",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Mode",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Boundary / Size",
+          "group": "Beam",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Reserved",
+          "group": "Maintenance",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Pattern Select",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Zoom",
+          "group": "Beam",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Rotation",
+          "group": "Beam",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B X Move",
+          "group": "Pan",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Y Move",
+          "group": "Tilt",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B X Distort / Zoom",
+          "group": "Beam",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Y Distort / Zoom",
+          "group": "Beam",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Fixed Color",
+          "group": "Colour",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Color FX",
+          "group": "Colour",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Dot FX",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Draw Mode",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Draw Speed",
+          "group": "Speed",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Twist",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Laser B Grating",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        }
+      ]
+    },
+    {
+      "file": "HOLDLAMP-A55-Segment Flash Lamp 288 RGB.qxf",
+      "manufacturer": "HOLDLAMP",
+      "model": "A55 Segment Flash Lamp 288 RGB",
+      "modes": {
+        "Mode 1 ": 10
+      },
+      "has_rgb": true,
+      "has_white": false,
+      "has_strobe": true,
+      "has_pan_tilt": false,
+      "segment_count": 1,
+      "channels_detail": [
+        {
+          "name": "Master Dimmer",
+          "group": "Intensity",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Red",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": ""
+        },
+        {
+          "name": "Green",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": ""
+        },
+        {
+          "name": "Blue",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": ""
+        },
+        {
+          "name": "Strobe",
+          "group": "Shutter",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Inner FX Mode",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Inner FX Control",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Inner FX Speed",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Outer Ring FX",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Outer Ring Speed",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        }
+      ]
+    },
+    {
+      "file": "OPPSK-288-RGBW Strobe Bar 64ch.qxf",
+      "manufacturer": "OPPSK",
+      "model": "288 RGBW Strobe Bar 64CH",
+      "modes": {
+        "64ch": 64
+      },
+      "has_rgb": true,
+      "has_white": true,
+      "has_strobe": false,
+      "has_pan_tilt": false,
+      "segment_count": 16,
+      "channels_detail": [
+        {
+          "name": "Red 1",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 1",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 1",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 2",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 2",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 2",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 3",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 3",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 3",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 4",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 4",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 4",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 5",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 5",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 5",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 6",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 6",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 6",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 7",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 7",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 7",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 8",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 8",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 8",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 9",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 9",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 9",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 10",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 10",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 10",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 11",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 11",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 11",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 12",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 12",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 12",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 13",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 13",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 13",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 14",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 14",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 14",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 15",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 15",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 15",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 16",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 16",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 16",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "White 1",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 2",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 3",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 4",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 5",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 6",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 7",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 8",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 9",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 10",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 11",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 12",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 13",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 14",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 15",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        },
+        {
+          "name": "White 16",
+          "group": "Intensity",
+          "colour": "White",
+          "preset": "IntensityWhite"
+        }
+      ]
+    },
+    {
+      "file": "OPPSK-288-RGBW Strobe Bar MULTIMODE UNIFIED SLICES.qxf",
+      "manufacturer": "OPPSK",
+      "model": "288 RGBW Strobe Bar MULTIMODE UNIFIED SLICES",
+      "modes": {
+        "24CH Outer Ring (8x1)": 24,
+        "24CH Inner Ring (8x1)": 24,
+        "16CH Middle White (16x1)": 16
+      },
+      "has_rgb": true,
+      "has_white": true,
+      "has_strobe": false,
+      "has_pan_tilt": false,
+      "segment_count": 8,
+      "channels_detail": [
+        {
+          "name": "Red 1",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 1",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 1",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 2",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 2",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 2",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 3",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 3",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 3",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 4",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 4",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 4",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 5",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 5",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 5",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 6",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 6",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 6",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 7",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 7",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 7",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Red 8",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green 8",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue 8",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        }
+      ]
+    },
+    {
+      "file": "SHEHDS-30W COB-RGB.qxf",
+      "manufacturer": "SHEHDS",
+      "model": "30W COB-RGB",
+      "modes": {
+        "7ch Busk": 7
+      },
+      "has_rgb": true,
+      "has_white": false,
+      "has_strobe": true,
+      "has_pan_tilt": false,
+      "segment_count": 1,
+      "channels_detail": [
+        {
+          "name": "Master Dimmer",
+          "group": "Intensity",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Red",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "RGB Strobe",
+          "group": "Shutter",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Program Select",
+          "group": "Effect",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Program Speed / Sensitivity",
+          "group": "Speed",
+          "colour": "",
+          "preset": ""
+        }
+      ]
+    },
+    {
+      "file": "TCFUNDY-1500W-DMX-RGB-24LED Fog Machine.qxf",
+      "manufacturer": "TCFUNDY",
+      "model": "1500W DMX RGB 3-in-1 24LED Fog Machine",
+      "modes": {
+        "7ch": 7
+      },
+      "has_rgb": true,
+      "has_white": false,
+      "has_strobe": true,
+      "has_pan_tilt": false,
+      "segment_count": 1,
+      "channels_detail": [
+        {
+          "name": "Fog Output",
+          "group": "Shutter",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Red",
+          "group": "Intensity",
+          "colour": "Red",
+          "preset": "IntensityRed"
+        },
+        {
+          "name": "Green",
+          "group": "Intensity",
+          "colour": "Green",
+          "preset": "IntensityGreen"
+        },
+        {
+          "name": "Blue",
+          "group": "Intensity",
+          "colour": "Blue",
+          "preset": "IntensityBlue"
+        },
+        {
+          "name": "Color Macro",
+          "group": "Colour",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Strobe",
+          "group": "Shutter",
+          "colour": "",
+          "preset": ""
+        },
+        {
+          "name": "Auto Speed",
+          "group": "Speed",
+          "colour": "",
+          "preset": ""
+        }
+      ]
+    }
+  ]
+}
